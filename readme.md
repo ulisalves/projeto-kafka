@@ -1,6 +1,6 @@
 # Projeto Kafka com Spring Boot
 
-Este projeto demonstra uma arquitetura simples de mensageria orientada a eventos utilizando **Apache Kafka** e **Spring Boot (Java 17)**, totalmente conteinerizada com **Docker**, que pode ser conferido nessa página [Aqui](https://www.youtube.com/watch?v=twDixr_XefI) além do repositório oficial https://github.com/thiagolenz/tutorial-spring-boot-kafka-parte-1/blob/master/README.md#tutorial-spring-boot-kafka-parte-1
+Este projeto demonstra uma arquitetura simples de mensageria orientada a eventos utilizando **Apache Kafka** e **Spring Boot (Java 17)**, totalmente conteinerizada com **Docker**, que pode ser conferido nessa página [Aqui](https://www.youtube.com/watch?v=twDixr_XefI) além do repositório [oficial](https://github.com/thiagolenz/tutorial-spring-boot-kafka-parte-1/blob/master/README.md#tutorial-spring-boot-kafka-parte-1)
 
 ## 🚀 Arquitetura do Sistema
 
